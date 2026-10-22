@@ -1,0 +1,23 @@
+{
+  "name": "form3d-studio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Form3D — a cinematic React studio website with accessible, responsive motion.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/dev.mjs",
+    "preview": "node scripts/dev.mjs --preview",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}

@@ -1,0 +1,10 @@
+FORM3D — SHOWROOM UPDATE
+
+The finished website is in dist. Open dist/index.html in a modern browser, keeping the whole dist folder together.
+For a local server: install the development dependencies with npm ci, then run npm run preview. See README.md.
+
+Before accepting WhatsApp enquiries, enter the studio international phone number in dist/config.js. For permanent source changes, edit public/config.js and rebuild.
+
+Editable React source is in src. The update adds the sampled logo palette, seamless product silhouettes and smaller mobile product stages. No product photos or interaction components were replaced.
+
+This website has not been published or uploaded.
